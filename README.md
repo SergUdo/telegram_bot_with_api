@@ -2,6 +2,8 @@
 
 Add token received on the site https://home.openweathermap.org/users/sign_up
 
+Clone this repo.
+
 
 Add to Telegram Contacts:
 
